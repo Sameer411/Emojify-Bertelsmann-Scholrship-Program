@@ -2,7 +2,7 @@
 Emojify ML Project
 
 # Contributers
-Sameer
+Sameer Rathod
 <br />
 Siddharth Rai
 <br />
