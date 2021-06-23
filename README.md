@@ -27,7 +27,7 @@ Creating Emojies as per user's Expressions.
 # How to Execute Projecrt 
 Step 1) Download end Extract Project OR Clone project
 
-Step 2) Download Dataset from https://www.kaggle.com/msambare/fer2013?
+Step 2) Download Dataset from https://www.kaggle.com/msambare/fer2013
 
 Step 3) Open train.py file Execute File 
 
