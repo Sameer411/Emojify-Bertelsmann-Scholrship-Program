@@ -1,8 +1,7 @@
 # Emojify-Bertelsmann-Scholrship-Program
-Deep Learning Based Projec. 
 
 # About Project 
-Creating Emojies as per user's Expressions. 
+Creating Emojies as per user's Expressions. Deep Learning Based Project. 
 
 # Expression 
 1) Angry 
