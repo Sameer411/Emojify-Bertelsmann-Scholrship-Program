@@ -70,7 +70,7 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
-    bounding_box = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
+    bounding_box = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')     # Provide correct location of xml file.
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     faces = bounding_box.detectMultiScale(gray_frame,scaleFactor=1.3, minNeighbors=5)
